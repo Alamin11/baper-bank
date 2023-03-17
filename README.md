@@ -1,2 +1,2 @@
-# functional-baper-bank
+# baper-bank
 JS DOM manipulation
